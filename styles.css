@@ -60,10 +60,11 @@ nav{
 
 
 .nav-toggle {
-    font-size: 1.2rem;
+    font-size: 1.7rem;
     cursor: pointer;
     /* color:var(--main-text-color); */
     color:white;
+    margin-right:2%;
   }
 @media screen and (max-width:768px) {
     .nav-menu{
